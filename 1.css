@@ -1,0 +1,6 @@
+.das{
+    justify-content: space-between;
+    flex-direction: column-reverse;
+    text-decoration: line-through;
+    background-color: rgba(rgb(182, 57, 57), green, blue, .4)
+}
